@@ -1,7 +1,7 @@
 # vue-beer-co
 ### Vue Frontend for Beer API
 
-#### [Video Demo of App](https://share.getcloudapp.com/d5uNoXRN)
+#### 🎥 [Video Demo of App](https://share.getcloudapp.com/d5uNoXRN)
 
 #### Instructions to View:
 - git clone
